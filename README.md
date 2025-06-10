@@ -5,7 +5,7 @@ Hola! Bienvenido a mi portafolio de analisis de datos.
 Acá comparto proyectos de datos que he hecho, desde análisis hasta modelos predictivos y visualizaciones. 
 Trabajo con datos para resolver problemas reales y que tengan sentido para el negocio.
 
-Aunque parte de mi experiencia está en empresas de telecomunicaciones en Chile 📱, mi enfoque es transversal 🌐 y adaptable a cualquier industria. Me gusta conectar datos, negocio y tecnología para crear soluciones que realmente importan.
+Aunque parte de mi experiencia está en empresas de telecomunicaciones 📱, mi enfoque es transversal 🌐 y adaptable a cualquier industria. Me gusta conectar datos, negocio y tecnología para crear soluciones que realmente importan.
 
 **🚀 ¿Que vas a encontrar acá?**
 
